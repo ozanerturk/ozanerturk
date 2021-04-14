@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <p>
+  ![](https://komarev.com/ghpvc/?username=ozanerturk)
+
   I am a software developer working at <a href="https://sensemore.io">Sensemore</a> We are developing an IoT-based Predictive maintenance platform. We are trying to forecast failures, predict failure types, generate dynamic solitions, notify endusers, report detailed results, by monitoring health metrics of machines. I am responsible for developing and maintaining our cloud platform, which journey starts when a data package comes from end nodes to our various endpoints. 
 
   <p> 
